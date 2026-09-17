@@ -1,4 +1,4 @@
-# Praktikum 1 - Eksplorasi Data (EDA)
+# Praktikum 1 - Eksplorasi Data (EDA) - COBA-COBA AJA
 Mata Kuliah: Pembelajaran Mesin (INF62325)
 Nama : Alfiah Lutfi Sabilah
 NIM : 2488010032
